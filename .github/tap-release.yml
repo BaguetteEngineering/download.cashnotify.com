@@ -1,5 +1,5 @@
 asset: CashNotify-$VERSION_NUMBER.dmg
-tap: Homebrew/homebrew-cask/Casks/cashnotify.rb
+tap: BaguetteEngineering/homebrew-cask/Casks/cashnotify.rb
 template: >
   cask 'cashnotify' do
     version '$STABLE_VERSION'
